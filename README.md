@@ -1,2 +1,2 @@
 # Pbo_manager
-It is re upload of pbo manager because Arma 3 Holic has been deleted
+C' est un re upload du logiciel pbo manager. Ceci fait suite à la suppression de Arma 3 Holic.
